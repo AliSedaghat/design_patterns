@@ -1,2 +1,5 @@
 # Design Patterns
-Implementing design patterns of head first design pattern book in java language.
+I create this repo, to implement and learn design patterns of "Head first design pattern" book.
+
+List of design patterns is:
+- Strategy pattern
